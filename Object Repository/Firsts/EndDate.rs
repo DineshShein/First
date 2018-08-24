@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EndDate</name>
+   <tag></tag>
+   <elementGuidId>ba61ad83-a2ba-4b22-98ca-24f70e3ffd23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//input[@id='goal_startDate']//following::img[@name='imgCalendar'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//input[@id='goal_startDate']//following::img[@name='imgCalendar'])[3]</value>
+   </webElementProperties>
+</WebElementEntity>

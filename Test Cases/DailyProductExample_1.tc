@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DailyProductExample_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>855f97c7-d293-455b-82f0-8131b234231c</testCaseGuid>
+   <variable>
+      <defaultValue>'r'</defaultValue>
+      <description></description>
+      <id>a7b0e518-275b-4bca-92dc-0a027f9b79c1</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'din'</defaultValue>
+      <description></description>
+      <id>58d20b85-b0eb-48cf-a65e-aa8a6d071648</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'din@gsihealth.com'</defaultValue>
+      <description></description>
+      <id>4523298c-e408-459b-9d06-e6bc085b340f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
